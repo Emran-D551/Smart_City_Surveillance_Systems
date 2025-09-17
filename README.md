@@ -100,3 +100,39 @@ Technology: High costs, advanced computational resources, and continuous updates
 Cultural: Acceptance varies; Western societies value privacy.
 
 Regulatory: Complying with cross-border data protection laws such as GDPR and CCPA.
+
+
+3. Risk Assessment and Mitigation
+3.1 Potential Risks
+
+Data breaches and cyberattacks.
+
+False positives or negatives in facial recognition.
+
+Misuse by governments or private organizations.
+
+Legal non-compliance leading to fines or lawsuits.
+
+3.2 Mitigation Strategies
+
+1. Technical:
+
+Regular auditing of the algorithms to remove bias.
+
+Strong cybersecurity measures: encryption, access control, and intrusion detection.
+
+Applying anonymization and pseudonymization to the collected data.
+
+2. Managerial:
+
+Independent oversight committees.
+
+Transparent reporting to the public.
+
+Policies restricting data use to safety and emergency purposes only.
+
+3. Legal:
+
+Compliance frameworks aligned with GDPR, CCPA, and local privacy laws.
+
+Regular legal audits and data protection officer oversight.
