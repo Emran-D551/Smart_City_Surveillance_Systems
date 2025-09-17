@@ -54,3 +54,49 @@ Western Democracies: Privacy and civil liberties come first in the minds of citi
 When public perception is influenced, acceptance of these systems depends on a degree of transparency, government accountability, and a historical perspective of trust in the public institution.
 
 Trust here opens the path for adoption; absence of it opens the path for resistance and suspicion of abuse.
+
+
+2. System Requirements and Constraints
+2.1 Technical Requirements
+
+1. Accurate AI Algorithms:
+
+Diverse datasets for minimizing bias.
+
+Continuous evaluation of performance and algorithm updates.
+
+2. Data Encryption & Secure Storage:
+
+End-to-end encryption for video feed and metadata.
+
+Role-based access control and multi-factor authentication.
+
+3. Privacy by Design:
+
+Collect only the data really needed.
+
+Ensure data is anonymized at least until verification becomes necessary.
+
+Retention will be within time frames permissible by law.
+
+4. Interoperability:
+
+Integrate with traffic management, emergency response, and crime prevention systems.
+
+Open APIs and standardized protocols must be developed to allow seamless functioning.
+
+2.2 Managerial & Operational Requirements
+
+Transparency: Public awareness campaigns to apprise the public of system purpose, its limitations, and rights.
+
+Informed Consent: Opt-in mechanisms should be given to the citizens where applicable.
+
+Training & Oversight: Staff shall be trained in understanding the ethical usage of data and be aware of at least the minimum laws that govern the businesses.
+
+2.3 Constraints
+
+Technology: High costs, advanced computational resources, and continuous updates.
+
+Cultural: Acceptance varies; Western societies value privacy.
+
+Regulatory: Complying with cross-border data protection laws such as GDPR and CCPA.
