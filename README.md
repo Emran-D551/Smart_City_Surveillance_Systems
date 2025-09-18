@@ -142,3 +142,42 @@ Regular legal audits and data protection officer oversight.
 4.1 High-Level System Architecture
 
 Components:
+1. Input layer:
+
+Surveillance cameras (CCTV, drones, IoT sensors).
+
+Data pre-processing units (motion detection, face extraction).
+
+2. Processing layer:
+
+AI and machine learning models for facial recognition and behavioral analysis.
+
+Real-time alerting in case of an emergency or a crime.
+
+3. Data management layer: 
+
+  Enforced encrypted data storage (cloud-based or on-premises).
+
+  Access control and auditing.
+
+4. Governance layer: 
+
+  Independent boards of oversight.
+
+  Privacy compliance modules and systems for legal reporting.
+
+5. Public interaction layer: 
+
+  Citizen dashboards for transparency.
+
+  Opt-out/consent mechanisms.
+
+Privacy by Design:
+
+  Following data minimization principles.
+
+  Encrypt data to obfuscate except in the case of a bona fide emergency.
+
+  Keep actionable audit trails for accountability.
+
+A visual diagram can be made with arrows pointing camera → AI processing → encrypted storage → oversight → public dashboard.
