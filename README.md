@@ -136,3 +136,9 @@ Policies restricting data use to safety and emergency purposes only.
 Compliance frameworks aligned with GDPR, CCPA, and local privacy laws.
 
 Regular legal audits and data protection officer oversight.
+
+
+4. System Design Proposal
+4.1 High-Level System Architecture
+
+Components:
