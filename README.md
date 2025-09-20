@@ -215,4 +215,17 @@ The key findings highlight several challenges: technical limitations, privacy co
 The proposed system design emphasizes privacy by design, including encrypted data storage, bias-reduction in AI models, anonymization, independent oversight, and citizen-facing transparency mechanisms. Ethical deployment requires the involvement of MIS professionals to ensure legal compliance, responsible data handling, and fair treatment of all citizens.
 Ultimately, the viability of smart city surveillance lies in balance: combining technological innovation with ethical safeguards. By embedding accountability, cultural sensitivity, and legal compliance, cities can leverage surveillance to improve safety while protecting the very freedoms that define democratic societies.
 
+# 7. References
+[1] P. Mozur, “Inside China’s dystopian dreams: A.I., shame and lots of cameras,” The New York Times, Jul. 2018. [Online]. Available: https://www.nytimes.com/2018/07/08/business/china-surveillance-technology.html
+[2] European Parliament and Council of the European Union, “General Data Protection Regulation (GDPR),” Official Journal of the European Union, 2016. [Online]. Available: https://gdpr.eu
+[3] California State Legislature, “California Consumer Privacy Act (CCPA),” California Legislative Information, 2018. [Online]. Available: https://oag.ca.gov/privacy/ccpa
+[4] N. O’Flaherty, “Bias in facial recognition technology: Exploring algorithmic inequity,” AI & Society, vol. 36, no. 4, pp. 1205–1215, 2021.
+[5] S. Garvie, “Facial recognition technology: Current and emerging legal and ethical issues,” Georgetown Law Center on Privacy & Technology, 2020.
+[6] M. Veale, R. Binns, and L. Edwards, “Algorithms that remember: Model inversion attacks and data protection law,” Philosophical Transactions of the Royal Society A, vol. 376, no. 2133, pp. 1–17, 2018.
+[7] A. Harwell, “What you need to know about the growing use of facial recognition technology,” The Washington Post, Jul. 2019. [Online]. Available: https://www.washingtonpost.com
+[8] A. T. Nasrabadi, “Facial recognition in the modern era: Challenges and ethical considerations,” IEEE Transactions on Technology and Society, vol. 2, no. 3, pp. 145–157, Sept. 2021.
+[9] T. Zeng, J. Lu, and H. Wang, “Surveillance in smart cities: Balancing technology and privacy,” IEEE Access, vol. 9, pp. 65234–65247, 2021.
+[10] N. Kshetri, “The economics of facial recognition technologies in smart cities,” Computer, vol. 52, no. 11, pp. 36–43, Nov. 2019.
+[11] A. Cavoukian, “Privacy by Design: The 7 Foundational Principles,” Information and Privacy Commissioner of Ontario, Canada, 2011.
+[12] P. Ekblom, “Crime prevention, security and AI surveillance,” Journal of Crime Prevention and Community Safety, vol. 22, no. 1, pp. 1–15, 2020.
 
