@@ -56,7 +56,7 @@ When public perception is influenced, acceptance of these systems depends on a d
 Trust here opens the path for adoption; absence of it opens the path for resistance and suspicion of abuse.
 
 
-2. System Requirements and Constraints
+# 2. System Requirements and Constraints
 2.1 Technical Requirements
 
 1. Accurate AI Algorithms:
@@ -102,7 +102,7 @@ Cultural: Acceptance varies; Western societies value privacy.
 Regulatory: Complying with cross-border data protection laws such as GDPR and CCPA.
 
 
-3. Risk Assessment and Mitigation
+# 3. Risk Assessment and Mitigation
 3.1 Potential Risks
 
 Data breaches and cyberattacks.
@@ -138,7 +138,7 @@ Compliance frameworks aligned with GDPR, CCPA, and local privacy laws.
 Regular legal audits and data protection officer oversight.
 
 
-4. System Design Proposal
+# 4. System Design Proposal
 4.1 High-Level System Architecture
 
 Components:
